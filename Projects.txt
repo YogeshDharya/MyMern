@@ -1,0 +1,106 @@
+chmod +x setup.sh
+./setup.sh  
+4 NodeJS and MongoDB backend-> first above then npm start 
+chmod +x setup.sh
+./setup.sh 
+same in cd Frontend 
+npm start
+//short cut to add a new terminal and move across terminals 
+//ME_QKART_FRONTEND_V2_MODULE_REGISTER
+git clone https://gitlab.crio.do/crio_bytes/me_nodejs_basics.git
+// eslint-disable-next-line 
+Material UI's custom theme helps in defining default themes for the buttons , textFields etc and can be used by keeping it as the parent of all as follows :
+<ThemeProvider theme={createdTheme}><Child1 /><Child2 /><ThemeProvider />
+//WHEN U GET STUCK
+console.log("Not just before & after the error but also BROWSER'S console")
+breakPoints 
+debugger
+border : dotted 1 px red 
+Read the entire bug again including the area right on top of from where the bug initiates PLUS 
+the area from where the bug as such doesn't exist , these can be the two potential regions causing the bug to occur  
+NEW check the files which are already imported within the current one THEY HAVE A PURPOSE 4 their existence  
+look if that bug is even necessarry to resolve 
+consider bugs as oppurtunities to learn something new  
+QKart logo 
+successful registeration msg 
+Above if u want to ignore the proceeding warnings 
+both at project directory 
+then npm start first at the above directory and later at the backend dir
+Should i keep my QCart logos as hyperLinks 2 ?
+Technologies : DevOps 
+Tools : Jenkins Tailwind CSS TypeScript 
+OS : ?
+DBMS CN ??
+SEO ALSO should i keep my resume's extention in word format ?
+cut short and linked in MCQs JS AND REACT
+Stack OverFlow profiles 
+alt for 
+hooks used from notistack LIBRARY ?
+QKart  
+useHistory hook  helps in keeping a track of the previously visited urls  
+B           U               G                   S
+
+The url changed when i hit register but it didn't change the interface 
+What should the back2Explore page and QKart logo should do 
+How do i have dividers between Stack children 
+How do i control the circular progress icon 
+Register different from Login  ? 
+does the control automatically go 2 the next textField 
+How do i control the helper text below the TextField ?
+I C a lot of meaningless space below the Register link , should i keep it in the center ? and increase its size ? or decrease the size of the parent   
+Can we control the Color of this helperText  
+how to toggle between split terminals   
+Rest of the Qkart backend modules debriefs will be covered in some other sprint ? 
+Had a question actually , can something be done to the scrolling while filling feedBack and querry forms ?
+
+Unique :
+Yogesh Made circular progress icon 
+Register different from Login ? So different TextField different Stack direction style BUT 
+Different color combinations color:secondary  
+
+GK
+Always look for defaults , The TextField component of material ui has outlined as default`
+Default size is also the large
+type: password 
+UPDATES : accordian , carousal 
+
+SECURITY
+verified autherization by keeping app.use(validator) on top of other app.use(router) commands , thereby guarding the data at the first place itself , since 
+access will b allowed only when the user api request has the required credentials||headers
+IF ASKED 4 ISSUES / BUGS : yes i had seen that i couldn't access the body of the POST request url as sent from the front-end within my server's index.js  , because it was not in the 
+json format , (was rather text ??!). ' . used another middleware which was express.json() --> app.use(express.json()) 
+i was thinking of fetching those  records/documents from my MongoDB 's dataBase (MyDB's collection myTodos) whose startDate and endDate lied within the range specified by the user in the front-end 
+which in turn will still be a GET request BUT it will require this data range to passed to the back-end so that i could be considered while fetching data from the DB  
+
+
+INTERVIEW 
+interview kick start 
+
+HIRING 
+cutshort https://drive.google.com/file/d/1cVTcaJoScTe0X6tEw3JnoxdSw80wUSJJ/view
+angelist https://drive.google.com/file/d/1y1_pg7cRCB_QysRe6kf6e9tB8x9FYyBT/view
+linkedIn https://drive.google.com/file/d/199QBxiEDfnVvIaLAyW4-J7IvDj7ziRe-/view
+4 referrals https://www.youtube.com/watch?v=85i78eoltNk
+ and https://www.youtube.com/watch?v=I17XCak_Suc
+ALWAYS REMEMBER EVEN WHEN U FAIL THE INTERVIEW(LETS SAY) GOOGLE THEY INVITE U BACK FOR 
+SUMBITTING UR RESUME FOR SOME DIFFERENT POST/JOB-ROLE 29TH DEC MAMA WANTS TO CHANGE 
+SENYA ITACHI BEFORE RIGHT NOW EZIO ASSASSINS CREED WENT AWAY DEVA AT BEDROOM  STUDYING FOR HIS 
+LAST EXAM TOMMOROW . UNLIKE ME SINCE THE MONDAY 3:42 PM   
+Ivolunteer
+neeti ayog AICTE
+rest here https://www.youtube.com/watch?v=sSbnlJhZ-EU&t=457s
+and here https://www.youtube.com/watch?v=fUYjV0YN-tY
+I am a recent B.Tech graduate with the given front-end development  and DevOps skills. I enjoy creating beautiful User Interfaces ,
+deploying artifacts on the cloud and like resolving bugs . I have a keen interest towards learning new technologies and therefore would
+admire working under an organization which not only supervises me to polish my current skills plus offers scope to learn something 
+new in a fun interactive manner while contributing along with the goals of the company . 
+Hi <Recruiter Name>
+I'm writing this note to express my interest at <company_name> for the role of <role_name>
+I'm a <graduation_year> pass out from <university/college_name> and currently working at <Company_name> as a <role_name>. Apart from that, I'm also a student developer at Crio-an. experiential learning platform for developers where have worked on multiple projects and have hands-on experience with technologies like HTML/CSS, Javascript and React JS. You can review my projects in my Crio portfolio listed on my talent card.
+Provided my skills and the expectations set from your side, I believe that I'm a suitable match for this position. Please let me know your thoughts on the same.
+Looking forward to hearing back from you soon.
+Regards,
+YogeshDharya
+YogeshDharya Resu pdf Upload
+Gber rasuose
+Follow Red Panda Private Limited to get alerts for new job openings and major hiring announcementssand
