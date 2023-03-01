@@ -1,4 +1,4 @@
-//VANILLA node js doesn't operate with ES6 functionalitites which means we can't use import / export 
+
 const { data } = require("../DB/user.json");
 
 const getAllUsers = (req, res) => {
