@@ -59,7 +59,7 @@ const updateBlog = async (req, res) => {
 module.exports = { createNewBlog, searchBlogs, getAllBlogs, deleteBlogWithId, updateBlog };
 //
 const blogs = require("./../models/blogs.models");
-//const mongoose = require("mongoose");
+
 const createDoc = async (req,res)=>{
     const record = new blogs(req.body)
     const result = await record.save()
